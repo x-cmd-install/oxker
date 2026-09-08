@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1472700,
       "digest": "sha256:947e95e9b386cd05ee02d843fe24050695c206a3cd9fff9ff0f91c44f28c61dd",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-08-22T20:30:31Z",
       "updated_at": "2026-08-22T20:30:31Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1288908,
       "digest": "sha256:d58a33c287bce341ec7ddd8d32d3c4e6af3fbe52230e06d163975d62cc9816d2",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-22T20:30:32Z",
       "updated_at": "2026-08-22T20:30:32Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_arm64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1329408,
       "digest": "sha256:9f5e005d56d9fcc7794fd0cc1d1f1d10605cfd337997ee37c4ba5a839cde5883",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-22T20:30:31Z",
       "updated_at": "2026-08-22T20:30:32Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_armhf.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1642300,
       "digest": "sha256:cc36d209a2130d24c9f1ac9760505448068dc06e39e4a808d88147a09b7f3a05",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-08-22T20:30:30Z",
       "updated_at": "2026-08-22T20:30:30Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_apple_darwin_aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1805214,
       "digest": "sha256:850bd6c772df85abb67ab08c2add1e46f663268b8788a4a7184d2ed28fce083b",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-08-22T20:30:29Z",
       "updated_at": "2026-08-22T20:30:29Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1885728,
       "digest": "sha256:ee84e95224a1a6c8b37d861b97e248599d42fbc0fe45c8e2a2d30dc8c125ee1e",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-08-22T20:30:29Z",
       "updated_at": "2026-08-22T20:30:29Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_armv6.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1945748,
       "digest": "sha256:e077cbf2e978a7a6c9802d453491944ba3635482097e2549e58c7e81df389643",
-      "download_count": 776,
+      "download_count": 788,
       "created_at": "2026-08-22T20:30:28Z",
       "updated_at": "2026-08-22T20:30:28Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1836184,
       "digest": "sha256:5818cd8b3cb32c14f96c70122a0d188cf67a2ccc8f501c9be4151b412b8beee3",
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2026-08-22T20:30:30Z",
       "updated_at": "2026-08-22T20:30:30Z",
       "browser_download_url": "https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_windows_x86_64.zip"
