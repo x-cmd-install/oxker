@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.13.4"
   latestRelease: "v0.13.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:50:17Z
+  collectedAt: 2026-09-09T19:20:37Z
 timeline:
   created: 2022-04-25
   lastCommit: 2026-08-22
@@ -85,7 +85,7 @@ total:
   commit: 1164
 ---
 path: /home/runner/.x-repo/github.com/mrjackwills/oxker
-collectedAt: 2026-09-09T04:50:22Z
+collectedAt: 2026-09-09T19:20:39Z
 loc:
   Rust:
     code: 15192
