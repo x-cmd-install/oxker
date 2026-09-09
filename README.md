@@ -7,7 +7,7 @@ A simple tui to view & control docker containers
 - **Latest release**: `v0.13.4` (2026-08-22)
 - **Last commit**: 2026-08-22
 - **License**: MIT
-- **Stars**: 1831 · **Forks**: 45 · **Open issues**: 71 · **Contributors**: 9
+- **Stars**: 1832 · **Forks**: 45 · **Open issues**: 71 · **Contributors**: 9
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/oxker> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:05:12Z._
+_Last regenerated: 2026-09-09T04:50:28Z._
