@@ -4,7 +4,7 @@
 
 A simple tui to view & control docker containers 
 
-![oxker](https://repo.x-cmd.io/oxker.svg)
+![oxker](https://repo.x-cmd.io/oxker.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,23 @@ x install oxker
 - **最新版本**: `v0.13.4` (2026-08-22)
 - **最近提交**: 2026-08-22
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-08-22T20:30:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [oxker_0.13.4-1_amd64.deb](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
+| [oxker_0.13.4-1_arm64.deb](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_arm64.deb) | 1.2 MiB | `runtime/deb/arm64` |
+| [oxker_0.13.4-1_armhf.deb](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_0.13.4-1_armhf.deb) | 1.3 MiB | `runtime/deb/armhf` |
+| [oxker_apple_darwin_aarch64.tar.gz](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_apple_darwin_aarch64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [oxker_linux_aarch64.tar.gz](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_aarch64.tar.gz) | 1.7 MiB | `native/linux/arm64` |
+| [oxker_linux_armv6.tar.gz](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_armv6.tar.gz) | 1.8 MiB | `native/linux/arm` |
+| [oxker_linux_x86_64.tar.gz](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [oxker_windows_x86_64.zip](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_windows_x86_64.zip) | 1.8 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 1,833 · **Fork**: 45 · **开放 issue**: 71 · **贡献者**: 9
+- **Star**: 1,831 · **Fork**: 45 · **开放 issue**: 71 · **贡献者**: 9
 
 ## 累计统计
 
@@ -61,4 +73,4 @@ oxker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:51:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:01:13Z._
