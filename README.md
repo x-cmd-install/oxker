@@ -37,7 +37,7 @@ Total: **16,082** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,832 · **Forks**: 45 · **Open issues**: 71 · **Contributors**: 9
+- **Stars**: 1,833 · **Forks**: 45 · **Open issues**: 71 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -85,4 +85,4 @@ Install metadata for oxker lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:53:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:08:44Z._
