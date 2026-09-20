@@ -4,7 +4,7 @@
 
 A simple tui to view & control docker containers 
 
-![oxker](https://repo.x-cmd.io/oxker.svg?lang=zh)
+[![x-cmd/install — oxker Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oxker.svg?lang=zh)](https://x-cmd.com/install/oxker)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install oxker
 
 ## 流行度
 
-- **Star**: 1,840 · **Fork**: 45 · **开放 issue**: 71 · **贡献者**: 9
+- **Star**: 1,847 · **Fork**: 45 · **开放 issue**: 71 · **贡献者**: 9
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install oxker
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 0 | 22 |
-| last60d | 2026-07-20 | 2 | 0 | 0 | 0 | 0 | 30 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 39 |
-| last180d | 2026-03-22 | 4 | 0 | 1 | 2 | 3 | 51 |
-| 360d | 2025-09-23 | 6 | 0 | 2 | 6 | 8 | 92 |
-| last720d | 2024-09-28 | 16 | 0 | 2 | 17 | 17 | 320 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 22 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 0 | 0 | 39 |
+| last180d | 2026-03-24 | 4 | 0 | 1 | 1 | 3 | 50 |
+| 360d | 2025-09-25 | 6 | 0 | 2 | 6 | 8 | 84 |
+| last720d | 2024-09-30 | 16 | 0 | 2 | 17 | 17 | 320 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ oxker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:59:10Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:04:37Z._
