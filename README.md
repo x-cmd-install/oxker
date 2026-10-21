@@ -37,22 +37,22 @@ Total: **16,082** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,992 · **Forks**: 51 · **Open issues**: 74 · **Contributors**: 9
+- **Stars**: 2,002 · **Forks**: 52 · **Open issues**: 74 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 9 · **Open PRs**: 4 · **Closed issues**: 51 · **Open issues**: 23 · **Commits**: 1164
+- **Releases**: 53 · **Merged PRs**: 9 · **Open PRs**: 5 · **Closed issues**: 51 · **Open issues**: 23 · **Commits**: 1164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 2 | 0 | 3 | 0 |
-| last60d | 2026-08-21 | 1 | 0 | 2 | 0 | 3 | 0 |
-| 90d | 2026-07-22 | 2 | 0 | 2 | 0 | 3 | 22 |
-| last180d | 2026-04-23 | 3 | 0 | 2 | 1 | 5 | 47 |
-| 360d | 2025-10-25 | 5 | 0 | 3 | 5 | 9 | 84 |
-| last720d | 2024-10-30 | 15 | 0 | 3 | 16 | 20 | 302 |
+| 30d | 2026-09-21 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last60d | 2026-08-22 | 1 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-07-23 | 2 | 0 | 3 | 0 | 3 | 22 |
+| last180d | 2026-04-24 | 3 | 0 | 3 | 1 | 5 | 47 |
+| 360d | 2025-10-26 | 5 | 0 | 4 | 5 | 9 | 84 |
+| last720d | 2024-10-31 | 15 | 0 | 4 | 16 | 20 | 302 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for oxker lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:06:59Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:48:27Z._
