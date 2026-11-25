@@ -37,7 +37,7 @@ Total: **16,082** lines of code across **43** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,089 · **Forks**: 58 · **Open issues**: 76 · **Contributors**: 9
+- **Stars**: 2,090 · **Forks**: 58 · **Open issues**: 76 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,082** lines of code across **43** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 5 | 0 | 5 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 5 | 0 | 5 | 0 |
-| last180d | 2026-05-28 | 2 | 0 | 5 | 0 | 5 | 39 |
-| 360d | 2025-11-29 | 5 | 0 | 6 | 4 | 9 | 84 |
-| last720d | 2024-12-04 | 15 | 0 | 6 | 15 | 20 | 268 |
+| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 5 | 0 | 5 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 5 | 0 | 5 | 0 |
+| last180d | 2026-05-29 | 2 | 0 | 5 | 0 | 5 | 39 |
+| 360d | 2025-11-30 | 5 | 0 | 6 | 4 | 9 | 84 |
+| last720d | 2024-12-05 | 15 | 0 | 6 | 15 | 20 | 263 |
 
 ## Release assets
 
@@ -67,15 +67,6 @@ Total: **16,082** lines of code across **43** files in the top 5 languages.
 | [oxker_linux_x86_64.tar.gz](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_linux_x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
 | [oxker_windows_x86_64.zip](https://github.com/mrjackwills/oxker/releases/download/v0.13.4/oxker_windows_x86_64.zip) | 1.8 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/oxker). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.13.4` | ✅ latest |
-| Nix unstable | `0.13.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for oxker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oxker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +76,4 @@ Install metadata for oxker lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:04:55Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:44:01Z._
